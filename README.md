@@ -41,9 +41,10 @@ License
 
 ## About Me
 
-IT Professional with 3+ years of experience supporting production systems across healthcare, retail, and 
-social media (Trust & Safety) domains, specializing in technical support, QA testing, incident and ticket 
-management, sales operations (ERP/CRM), and data analysis & reporting.
+IT Professional with 3+ years of combined experience supporting production systems and enterprise 
+business applications across healthcare, retail, Trust & Safety, and technology operations. Experienced in 
+technical support, QA testing, incident and ticket management, ERP/CRM operations, and data analysis & 
+reporting. 
 
 This project, which is mirrored or shadowed from the tutorial at https://www.youtube.com/watch?v=9GVqKuTVANE&t=11810s, is primarily for my career progression as I upskill toward specialized or data-driven roles in the future.
 
